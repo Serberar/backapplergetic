@@ -6,7 +6,7 @@ const Producto = require('../api/models/productos.model');
 const arrayProductos = [
     {
         "name": "Prueba",
-        "alergias": ["6454c71af77903aa26ff5b78", "6454c71af77903aa26ff5b79"],
+        "alergias": [],
         "barcode": 84104943000043,
         "image": "https://res.cloudinary.com/dw11t6pjw/image/upload/v1679473515/cld-sample-5.jpg"
     },
